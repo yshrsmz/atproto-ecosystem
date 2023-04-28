@@ -106,3 +106,5 @@ List of projects and implementations in the AT protocol ecosystem. Many are WIP,
 - [granary](https://granary.io/) (Python, REST API) converts `app.bsky` objects to/from ActivityStreams, RSS, Atom, HTML, and more
 - [Bridgy Fed](https://fed.brid.gy/) (Python) includes implementations of the [AT Protocol Merkle search tree](https://github.com/snarfed/bridgy-fed/blob/main/atproto_mst.py) and [`com.atproto.sync`](https://github.com/snarfed/bridgy-fed/blob/main/atproto.py)
 - [bsky-link-preview](https://github.com/capjamesg/bsky-link-preview): Generate an embeddable link preview for a Bluesky post.
+- [OmniATP](https://github.com/yshrsmz/omniatp) Browser extension that let you post(or share current URL) from browser's Adress bar
+  - [Chrome Web Store](https://chrome.google.com/webstore/detail/omniatp/ngfefjjphfmafhmhbpjccedmkbbcmngf)
